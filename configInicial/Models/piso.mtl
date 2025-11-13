@@ -1,0 +1,99 @@
+# Blender 4.5.3 LTS MTL File: 'entorno.blend'
+# www.blender.org
+
+newmtl Grass_Block_TEX
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.139456 0.139456 0.139456
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Grass_Block_TEX.png
+
+newmtl Material
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd floor_pavement_diff_1k.jpg
+map_Ns floor_pavement_rough_1k.exr
+map_Bump -bm 1.000000 floor_pavement_nor_gl_1k.exr
+
+newmtl Material.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd aerial_grass_rock_diff_4k.jpg
+map_Ns aerial_grass_rock_rough_4k.jpg
+map_Bump -bm 1.000000 aerial_grass_rock_nor_gl_4k.exr
+
+newmtl Material.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd wood_planks_diff_1k.jpg
+map_Ns wood_planks_rough_1k.exr
+map_Bump -bm 1.000000 wood_planks_nor_gl_1k.exr
+
+newmtl Material.003
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd pavement_02_diff_1k.jpg
+map_Ns pavement_02_rough_1k.exr
+map_Bump -bm 1.000000 pavement_02_nor_gl_1k.exr
+
+newmtl Material.004
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd snow_02_diff_1k.jpg
+map_Ns snow_02_rough_1k.jpg
+map_Bump -bm 1.000000 snow_02_nor_gl_1k.exr
+
+newmtl Material.005
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd coast_sand_rocks_02_diff_1k.jpg
+map_Ns coast_sand_rocks_02_rough_1k.exr
+map_Bump -bm 1.000000 coast_sand_rocks_02_nor_gl_1k.exr
+
+newmtl Material.006
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd rocky_terrain_02_diff_1k.jpg
+map_Ks rocky_terrain_02_spec_1k.png
+map_Ns rocky_terrain_02_rough_1k.exr
+map_Bump -bm 1.000000 rocky_terrain_02_nor_gl_1k.exr
+
+newmtl PolarBear
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd polarbear.png
+map_d polarbear.png

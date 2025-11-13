@@ -1,0 +1,32 @@
+# Blender 4.5.3 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl Lioness_Body.001
+Ns 16.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Lioness_Body_baseColor.png
+
+newmtl Lioness_Claw.001
+Ns 10.536910
+Ka 1.000000 1.000000 1.000000
+Kd 0.661152 0.457398 0.328323
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Lioness_Lens.001
+Ns 49.080410
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Lioness_Lens_baseColor.png
